@@ -1,38 +1,43 @@
-## Hi there 👋, I'm Satyam Singh!
+## Hi there 👋, I'm Satyam Singh
 
-- 🔭 I’m currently working on: **A Medicinal Plant Identification Project** for my final year, along with exploring **full-stack development** using **Spring Boot** and **ReactJS**.
-- 🌱 I’m currently learning: **Machine Learning**, especially in the context of plant leaf identification, and diving deeper into **API integrations**.
-- 👯 I’m looking to collaborate on: **Web development projects** and **open-source contributions** where I can apply my skills in **Java**, **ReactJS**, and **Spring Boot**.
-- 🤔 I’m looking for help with: **Deploying full-stack applications** and best practices in **DevOps** for smooth CI/CD pipelines.
-- 💬 Ask me about: **Web development**, **Java**, **Spring Boot**, **ReactJS**, or anything related to **front-end and back-end development**.
-- 📫 How to reach me:  
-  - Email: [www.satyamsingh45012@gmail.com](mailto:www.satyamsingh45012@gmail.com)  
+### 🚀 Backend Engineer | Java & Spring Boot | Microservices Enthusiast
+
+- 🔭 **Currently working as**: **Graduate Trainee Engineer at Digit Insurance**, building **enterprise-grade microservices** using **Java & Spring Boot** for document automation and underwriting workflows.
+- 🧠 **Professional Experience**: 6+ months of hands-on backend development experience delivering **scalable, configurable RESTful APIs** that replace manual processes and improve operational efficiency.
+- 🌱 **Currently learning**: Advanced **microservices architecture**, **system design**, and backend performance optimization.
+- 👯 **Open to collaborate on**: Backend-heavy projects, **Spring Boot microservices**, and meaningful **open-source contributions**.
+- 🤔 **Looking for help with**: Cloud deployment, **DevOps best practices**, and CI/CD pipelines for production-ready applications.
+- 💬 **Ask me about**: Java, Spring Boot, REST APIs, Microservices, Backend Architecture, or API performance optimization.
+- 📫 **How to reach me**:
+  - Email: [rsatyamsingh844@gmail.com](mailto:rsatyamsingh844@gmail.com)
   - LinkedIn: [Satyam Singh](https://www.linkedin.com/in/satyam-singh-54b96a244/)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I won a **general knowledge competition** during my school days and I’m always up for learning something new!
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun fact**: I enjoy turning complex business workflows into clean, automated backend systems.
 
 ---
 
-![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatyamCodeByOwn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamCodeByOwn&layout=compact&theme=radical)
+## 🏗️ Professional Highlights
+
+- ✅ Built **2 configurable microservices** (Information Request & Quality Check) using **Java & Spring Boot** for multi-client document workflows.
+- 📉 Reduced **customer waiting time by 40%+** and **underwriter workload by 50%+** through automation.
+- 🚀 Improved **document validation accuracy by 60%+** using rule-based verification.
+- 🧩 Strong foundation in **OOP, Data Structures, Algorithms**, and **layered backend architecture**.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-- **Languages**:  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **Frameworks/Libraries**:  
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### ⚙️ Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## 📈 Profile Views  
+## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=SatyamCodeByOwn)
